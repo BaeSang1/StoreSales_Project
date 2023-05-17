@@ -5,7 +5,7 @@
 
 ## [2. 발표 영상](https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/, "Presentation Link")<br/>
 
-## [3. PDF 파일](https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/, "PDF Link")<br/>
+## [3. PDF 파일](https://github.com/BaeSang1/StoreSales_Project/blob/main/pdf/Attention_final.pdf, "PDF Link")<br/>
 
 ---
 ![image](https://github.com/BaeSang1/StoreSales_Project/blob/main/img/main-store.png)
